@@ -2,8 +2,7 @@
 
 > Infrastructure Docker multi-AS simulant un réseau BGP réel avec authentification MD5, filtrage bogons RFC1918 et validation RPKI/ROA via Routinator (175 000+ ROAs validés).
 
-**Module** : Sécurité des Réseaux et Protocoles  
-**Filière** : GCDSTE — Génie Cyber-Défense et Systèmes de Télécommunications Embarqués  
+**Filière** : RSSP — Réseaux, Systèmes et Services Programmables
 **Établissement** : ENSA Marrakech | Année universitaire 2025/2026  
 **Réalisé par** : AIT SI AHMED Abdellatif
 
